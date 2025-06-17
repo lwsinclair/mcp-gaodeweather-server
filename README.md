@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kevinkelin-mcp-gaodeweather-server-badge.png)](https://mseep.ai/app/kevinkelin-mcp-gaodeweather-server)
+
 ## 介绍
 
 这是一个使用高德地图的天气接口，获取当前城市天气的demo。
